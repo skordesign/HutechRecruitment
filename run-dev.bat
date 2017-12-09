@@ -1,0 +1,1 @@
+cd ngApp && ng build && cd .. && set ASPNETCORE_ENVIRONMENT=Development && dotnet run 
